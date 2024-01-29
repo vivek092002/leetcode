@@ -25,3 +25,4 @@ public class a26removeDupliactes {
         return (i+1);
     }
 }
+// uses two pointer alogorithm
